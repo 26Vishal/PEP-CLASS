@@ -1,2 +1,3 @@
-s1.message()
-# s1.message()
+text = "hellooo"
+result = r.findall("lo+",text)
+print(result)
